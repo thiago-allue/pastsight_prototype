@@ -4,8 +4,9 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/build" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.10 (global_venv)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="0_templates_front_end (thiago-pc's conflicted copy 2023-01-03)" />
+    <orderEntry type="module" module-name="minimalist-react-router-multi-pages" />
   </component>
 </module>
